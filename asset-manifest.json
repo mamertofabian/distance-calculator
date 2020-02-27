@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/distance-calculator/static/css/main.9d84730e.chunk.css",
-    "main.js": "/distance-calculator/static/js/main.f96967ec.chunk.js",
-    "main.js.map": "/distance-calculator/static/js/main.f96967ec.chunk.js.map",
+    "main.css": "/distance-calculator/static/css/main.e8d35374.chunk.css",
+    "main.js": "/distance-calculator/static/js/main.0ddab25d.chunk.js",
+    "main.js.map": "/distance-calculator/static/js/main.0ddab25d.chunk.js.map",
     "runtime-main.js": "/distance-calculator/static/js/runtime-main.1098eb50.js",
     "runtime-main.js.map": "/distance-calculator/static/js/runtime-main.1098eb50.js.map",
-    "static/js/2.30f1f3b4.chunk.js": "/distance-calculator/static/js/2.30f1f3b4.chunk.js",
-    "static/js/2.30f1f3b4.chunk.js.map": "/distance-calculator/static/js/2.30f1f3b4.chunk.js.map",
+    "static/js/2.67f60d34.chunk.js": "/distance-calculator/static/js/2.67f60d34.chunk.js",
+    "static/js/2.67f60d34.chunk.js.map": "/distance-calculator/static/js/2.67f60d34.chunk.js.map",
     "index.html": "/distance-calculator/index.html",
-    "precache-manifest.df70e9e1a17bb9aa9044a64df0fe3c4b.js": "/distance-calculator/precache-manifest.df70e9e1a17bb9aa9044a64df0fe3c4b.js",
+    "precache-manifest.767ccfca4f868c5249b3d322cdde90c8.js": "/distance-calculator/precache-manifest.767ccfca4f868c5249b3d322cdde90c8.js",
     "service-worker.js": "/distance-calculator/service-worker.js",
-    "static/css/main.9d84730e.chunk.css.map": "/distance-calculator/static/css/main.9d84730e.chunk.css.map",
-    "static/js/2.30f1f3b4.chunk.js.LICENSE.txt": "/distance-calculator/static/js/2.30f1f3b4.chunk.js.LICENSE.txt"
+    "static/css/main.e8d35374.chunk.css.map": "/distance-calculator/static/css/main.e8d35374.chunk.css.map",
+    "static/js/2.67f60d34.chunk.js.LICENSE.txt": "/distance-calculator/static/js/2.67f60d34.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1098eb50.js",
-    "static/js/2.30f1f3b4.chunk.js",
-    "static/css/main.9d84730e.chunk.css",
-    "static/js/main.f96967ec.chunk.js"
+    "static/js/2.67f60d34.chunk.js",
+    "static/css/main.e8d35374.chunk.css",
+    "static/js/main.0ddab25d.chunk.js"
   ]
 }

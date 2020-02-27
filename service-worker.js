@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/distance-calculator/precache-manifest.df70e9e1a17bb9aa9044a64df0fe3c4b.js"
+  "/distance-calculator/precache-manifest.767ccfca4f868c5249b3d322cdde90c8.js"
 );
 
 self.addEventListener('message', (event) => {
