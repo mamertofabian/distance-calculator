@@ -115,6 +115,7 @@ class Calculator extends Component {
         {this.state.error.length > 0 ? (
           <p className={classes.error}>{this.state.error}</p>
         ) : null}
+        <p>Source code available here: <a href="https://github.com/mamertofabian/distance-calculator">https://github.com/mamertofabian/distance-calculator</a></p>
       </div>
     );
   }
