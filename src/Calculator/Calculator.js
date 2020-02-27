@@ -1,7 +1,8 @@
-import React, { Component, Fragment } from "react";
+import React, { Component } from "react";
 import axios from "axios";
 
 import classes from "./Calculator.module.css";
+import Result from '../Result/Result';
 
 class Calculator extends Component {
   state = {
@@ -32,7 +33,7 @@ class Calculator extends Component {
 
         if (response.data.routes.length > 0) {
           legs = response.data.routes[0].legs.map((leg, i) => {
-            return <Fragment key={i}><span>{leg.summary.lengthInMeters / 1000} KM</span><br/></Fragment>;
+            return <Result key={i} {...leg.summary} />;
           });
         }
         this.setState({ results: legs });
@@ -71,7 +72,7 @@ class Calculator extends Component {
   render() {
     // console.log("[render]", this.state);
 
-    const results = <p>{this.state.results}</p>;
+    const results = this.state.results;
     // this.calculate();
     return (
       <div className={classes.Calculator}>

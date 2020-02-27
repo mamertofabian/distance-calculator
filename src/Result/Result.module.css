@@ -1,0 +1,9 @@
+.Result {
+  width: 50%;
+  margin: auto;
+  box-sizing: border-box;
+}
+
+.Result p {
+  text-align: left;
+}
