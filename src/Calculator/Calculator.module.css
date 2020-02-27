@@ -1,0 +1,17 @@
+.Calculator {
+  width: 100%;
+  text-align: center;
+}
+
+input, textarea {
+  min-width: 300px;
+}
+
+button:disabled {
+  color: #ccc;
+  cursor: not-allowed;
+}
+
+.error {
+  color: red;
+}
